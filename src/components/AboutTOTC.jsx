@@ -18,7 +18,7 @@ const AboutTOTC = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6 ">
           <div className="relative group w-[90%] md:w-[50%]  hover:scale-105 transition-all duration-200">
             <video
-              src="./instructor.mp4.mp4"
+              src="https://res.cloudinary.com/jatincloud809/video/upload/v1732279510/Learn%20sphere/Instructor.mp4"
               autoPlay
               muted
               loop
@@ -27,7 +27,7 @@ const AboutTOTC = () => {
           </div>
           <div className=" relative group  w-[90%] md:w-[50%]  hover:scale-105 transition-all duration-200">
             <video
-              src="./videoplayback (2).mp4"
+              src="https://res.cloudinary.com/jatincloud809/video/upload/v1732279504/Learn%20sphere/Instructor-2.mp4"
               autoPlay
               muted
               loop

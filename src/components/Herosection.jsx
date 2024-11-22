@@ -18,7 +18,7 @@ const Main = () => {
         <div className="relative  items-center  w-[80vw] object-cover p-20 ">
           <video
             className="w-[100%] object-cover shadow rounded-md"
-            src="../videoplayback.mp4"
+            src="https://res.cloudinary.com/jatincloud809/video/upload/v1732279397/Learn%20sphere/Hero-Sectioon.mp4"
             muted
             loop
             autoPlay

@@ -87,7 +87,7 @@ const Content = () => {
           {/* Main Content */}
           <main className="flex-1 relative px-4 pb-6 lg:p-">
             {/* Mobile Menu Button */}
-            <div className="lg:hidden -top-14 right-20 absolute mb-4">
+            <div className="lg:hidden -top-14 right-16 absolute mb-4">
               <TiThMenu
                 onClick={() => {
                   setIsSidebarOpen(!isSidebarOpen);

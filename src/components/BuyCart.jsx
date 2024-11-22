@@ -30,7 +30,7 @@ const BuyCart = () => {
         {/* cart for buy */}
         <div className="w-[100vw] relative h-[70vh]">
           <video
-            src="../videoplayback (1).mp4"
+            src="https://res.cloudinary.com/jatincloud809/video/upload/v1732279753/Learn%20sphere/CourseDetails.mp4"
             className="h-[100%]  w-full aspect-video object-cover"
             autoPlay
             muted
