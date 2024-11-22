@@ -11,6 +11,7 @@ export const AuthContextProvider = ({ children }) => {
       try {
         const { data } = await axios.get(
           "https://learn-sphere-backend.onrender.com/user/v2/auth/check",
+          {},
           {
             withCredentials: true,
           }
